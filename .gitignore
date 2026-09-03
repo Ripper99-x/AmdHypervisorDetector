@@ -1,0 +1,13 @@
+/.vs/
+/bin/
+/obj/
+/artifacts/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.pdb
+*.ilk
+*.exp
+*.lib
+
